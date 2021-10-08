@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-02-phonebook/static/css/main.f7269936.chunk.css",
+    "main.js": "/goit-react-hw-02-phonebook/static/js/main.b4768708.chunk.js",
+    "main.js.map": "/goit-react-hw-02-phonebook/static/js/main.b4768708.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-02-phonebook/static/js/runtime-main.a96519a4.js",
+    "runtime-main.js.map": "/goit-react-hw-02-phonebook/static/js/runtime-main.a96519a4.js.map",
+    "static/js/2.1621b9ac.chunk.js": "/goit-react-hw-02-phonebook/static/js/2.1621b9ac.chunk.js",
+    "static/js/2.1621b9ac.chunk.js.map": "/goit-react-hw-02-phonebook/static/js/2.1621b9ac.chunk.js.map",
+    "index.html": "/goit-react-hw-02-phonebook/index.html",
+    "static/css/main.f7269936.chunk.css.map": "/goit-react-hw-02-phonebook/static/css/main.f7269936.chunk.css.map",
+    "static/js/2.1621b9ac.chunk.js.LICENSE.txt": "/goit-react-hw-02-phonebook/static/js/2.1621b9ac.chunk.js.LICENSE.txt",
+    "static/media/ContactList.module.css": "/goit-react-hw-02-phonebook/static/media/delete.d32be008.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a96519a4.js",
+    "static/js/2.1621b9ac.chunk.js",
+    "static/css/main.f7269936.chunk.css",
+    "static/js/main.b4768708.chunk.js"
+  ]
+}
