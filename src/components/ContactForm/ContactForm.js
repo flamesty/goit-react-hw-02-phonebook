@@ -34,7 +34,7 @@ class ContactForm extends Component {
             name="name"
             value={name}
             onChange={this.handleChange}
-            placeholder="Ivan Ivanov"
+            placeholder="First Name Last Name"
           />
         </label>
         <label className={s.label}>
